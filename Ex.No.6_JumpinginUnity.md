@@ -1,5 +1,5 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### Name : Safeeq Fazil A                                                                            
+### Name : Pravin Raj A                                                                             
 ### Reg No : 212222240079
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
