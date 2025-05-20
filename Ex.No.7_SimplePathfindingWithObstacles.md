@@ -1,5 +1,5 @@
 # Ex.No:7  Implementation of Simple Pathfinding with Obstacles
-### Name : Safeeq Fazil A                                                                            
+### Name : Pravin Raj A                                                                           
 ### Reg No : 212222240079
 ### AIM: 
 To write a program to pathfinding using AI navigation 
