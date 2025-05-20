@@ -1,5 +1,5 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### Name : Safeeq Fazil A                                                                       
+### Name : Pravin Raj A                                                                          
 ### Reg NO : 212222240079
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
