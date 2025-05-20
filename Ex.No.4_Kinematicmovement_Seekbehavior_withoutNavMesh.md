@@ -1,5 +1,5 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek behavior in Unity
-### Name : Safeeq Fazil A                                                                            
+### Name : Pravin Raj A                                                                             
 ### Reg No : 212222240079
 ### AIM: 
 To write a program to simulate the process of seek behavior in Unity 
